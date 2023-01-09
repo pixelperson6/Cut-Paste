@@ -1,0 +1,51 @@
+<resources>
+    <declare-styleable name="FullscreenAttrs">
+        <attr name="fullscreenBackgroundColor" format="color" />
+        <attr name="fullscreenTextColor" format="color" />
+    </declare-styleable>
+    <declare-styleable name="ColorSeekBar">
+        <attr name="colorSeeds" format="reference" />
+        <attr name="barHeight" format="dimension" />
+        <attr name="thumbHeight" format="dimension" />
+        <attr name="showAlphaBar" format="boolean" />
+        <attr name="showColorBar" format="boolean" />
+        <attr name="alphaBarPosition" format="integer" />
+        <attr name="colorBarPosition" format="integer" />
+        <attr name="bgColor" format="color"/>
+        <attr name="barRadius" format="dimension"/>
+        <attr name="barMargin" format="dimension"/>
+        <attr name="maxPosition" format="integer"/>
+        <attr name="isVertical" format="boolean"/>
+        <attr name="disabledColor" format="color"/>
+        <attr name="showThumb" format="boolean"/>
+    </declare-styleable>
+
+    <declare-styleable name="PuzzleView">
+        <attr format="integer" name="line_size"/>
+        <attr format="color" name="line_color"/>
+        <attr format="color" name="selected_line_color"/>
+        <attr format="color" name="handle_bar_color"/>
+        <attr format="boolean" name="need_draw_line"/>
+        <attr format="boolean" name="need_draw_outer_line"/>
+        <attr format="dimension" name="piece_padding"/>
+        <attr format="integer" name="animation_duration"/>
+        <attr format="float" name="radian"/>
+    </declare-styleable>
+
+    <declare-styleable name="EditorView">
+
+        <attr name="helplineVisibility" format="boolean"/>
+
+
+
+
+
+    </declare-styleable>
+
+    <declare-styleable name="PhotoEditorView">
+        <attr name="photo_src" format="integer" />
+    </declare-styleable>
+
+
+
+</resources>

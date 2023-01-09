@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "816096568404",
+    "project_id": "photoonphoto-b6c16",
+    "storage_bucket": "photoonphoto-b6c16.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816096568404:android:2245a125bc301fa837b9c1",
+        "android_client_info": {
+          "package_name": "com.codingwithpix3l.photoonphoto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "816096568404-rm2lna1c7kc7fpoe62eumnm58i39g57b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5NARWhuqR2Nh4S9wGzgZZ5Q7WCfl6BOM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "816096568404-rm2lna1c7kc7fpoe62eumnm58i39g57b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,129 @@
+<resources>
+    <string name="app_name">Photo On Photo</string>
+    <string name="app_name_label">CutPaste</string>
+    <string name="slogan">Bring them together</string>
+
+    <string name="title_activity_about">AboutActivity</string>
+    <string name="title_activity_support">SupportActivity</string>
+    <string name="title_activity_tips">TipsActivity</string>
+    <string name="toast_no_tts_settings">tts setting not found</string>
+    <string name="toast_no_browser">no browser</string>
+    <string name="toast_no_email_client">no email clint</string>
+    <string name="share_with">share with</string>
+    <string name="toast_no_file_manager_to_load">no file manager</string>
+    <string name="toast_no_file_manager_to_create">no file manager</string>
+    <string name="text_share_with_friends">Share with Friends</string>
+    <string name="reset">Reset</string>
+    <string name="layout">Layout</string>
+    <string name="background">Background</string>
+    <string name="add_image">Add image</string>
+    <string name="save">Save</string>
+    <string name="editor">Editor</string>
+    <string name="back_btn_disc">Back button</string>
+    <string name="landscape">Landscape</string>
+    <string name="portrait">Portrait</string>
+    <string name="square">Square</string>
+    <string name="stories">Stories</string>
+    <string name="pinterest">Pinterest</string>
+    <string name="cancel_disc">Cancel</string>
+    <string name="done_disc">Done</string>
+    <string name="color">Color</string>
+    <string name="size">Size</string>
+    <string name="collage">Collage</string>
+    <string name="replace_disc">Replace</string>
+    <string name="replace">Replace</string>
+    <string name="horizontally">Horizontally</string>
+    <string name="horizontally_disc">Flip horizontally</string>
+    <string name="vertically_disc">Flip vertically</string>
+    <string name="vertically">Vertically</string>
+    <string name="rotate">Rotate</string>
+    <string name="corner">Corner</string>
+    <string name="border">Border</string>
+    <string name="top">Top</string>
+    <string name="bottom">Bottom</string>
+    <string name="left">Left</string>
+    <string name="right">Right</string>
+    <string name="eraser">Eraser</string>
+    <string name="done">Done</string>
+    <string name="undo_disc">Undo</string>
+    <string name="option_disc">Option</string>
+    <string name="redo_disc">Redo</string>
+    <string name="zoom">Zoom</string>
+    <string name="magic">Magic</string>
+    <string name="manual">Manual</string>
+    <string name="restore">Restore</string>
+    <string name="mirror">Mirror</string>
+    <string name="title_activity_collection">CollectionActivity</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="title">Photo On Photo</string>
+    <string name="loading_msg">Loading...</string>
+
+
+    <!-- permission string -->
+    <string name="rationale_ask">This app require storage permission to access images and to save them.</string>
+    <string name="rationale_ask_again">
+        This app may not work correctly without the requested permissions.
+        Open the app settings screen to modify app permissions.
+    </string>
+    <string name="title_settings_dialog">Permissions Required</string>
+    <string name="permission_title">Oops! You\'ve denied the permission</string>
+    <string name="write_permission_request">I need storage permission, to save the media file to your storage.
+        \nWithout the permission I cannot save your file.</string>
+    <string name="toast_no_share_found">No  Image  receiving application found</string>
+
+    <string name="rate_us_header">Rate the app on Google Play</string>
+    <string name="rate_us_body">App rating affect people\'s decision to download app. Positive rating can help us reach more users. With higher downloads, we will be able to receive feedback from number of different perspectives which will help us in making the app better than ever.</string>
+    <string name="next">Next</string>
+    <string name="support_app">Support app</string>
+    <string name="add_photo_on_photo_brief_description">Automatic background changer is simple app to change background with one click,it has many awesome library of backgrounds to choose from also helps to bring your photos together in one, you can join them as collages or keep them one over another or both.It\'s easy to use, user-friendly UI, and has very useful features.</string>
+    <string name="privacy_policy">Privacy policy</string>
+    <string name="developer">Developer</string>
+    <string name="join_us_body">Get the latest news, share interesting articles, ask questions. Connect, follow and have conversation with us.</string>
+    <string name="join_us_head">Join us on social media</string>
+    <string name="share_with_friends_body">Share your experience with your friends , Your friends might need the app.</string>
+    <string name="share_with_friends_head">Share with friends</string>
+    <string name="feedback_body">Tell us what\'s working, and what\'s not. We want to provide you with best experience,so your feedback is very valuable.Let us know how we can do better. Thank you.</string>
+    <string name="feedback_head">Help us Improve the app with feedback</string>
+    <string name="share_with_friends">Share with friends</string>
+    <string name="send_email_to_developer">Send email to Developer</string>
+    <string name="write_review_on_google_play">Write review on google play</string>
+    <string name="rate_us">Rate Us</string>
+    <string name="exit_without_save">Exit without saving?</string>
+    <string name="exit_body">The edited image is not saved.are you sure, you want to exit?</string>
+    <string name="confirm">Confirm</string>
+    <string name="jpt">Discard Changes</string>
+    <string name="title_activity_bg_remover">BgRemoverActivity</string>
+    <string name="offset">Offset</string>
+
+
+
+
+    <!-- these are the ad units
+
+    sample unit: ca-app-pub-3940256099942544/6300978111
+
+    main: ca-app-pub-5793456994344502/4233597783
+    collection:ca-app-pub-5793456994344502/3585842473
+    eraser: ca-app-pub-5793456994344502/7806604491
+    editor:ca-app-pub-5793456994344502/6659391399
+    album:ca-app-pub-5793456994344502/1049624454
+    images:ca-app-pub-5793456994344502/6110379449
+
+
+    Sample AdMob app ID : ca-app-pub-3940256099942544~3347511713
+    real AdMod id       : ca-app-pub-5793456994344502~4081271736
+
+    -->
+
+    <string name="ad_app_id">ca-app-pub-3940256099942544~3347511713</string>
+
+    <string name="ad_unit_eraser">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="ad_unit_editor">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="ad_unit_main">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="ad_unit_collection">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="ad_unit_album">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="ad_unit_images">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="version_txt">v 1.1.2</string>
+    <string name="close">Close</string>
+</resources>

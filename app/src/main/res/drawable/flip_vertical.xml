@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="223.75dp"
+    android:height="205.23dp"
+    android:viewportWidth="223.75"
+    android:viewportHeight="205.23">
+
+    <path
+        android:fillColor="#fff"
+        android:pathData="M8.08,121.53,212,204.86c3.66,1.5,7.47-1.72,7.47-6.31V115.21H4.29A6.61,6.61,0,0,0,8.08,121.53Z" />
+    <path
+        android:fillColor="#231f20"
+        android:strokeColor="#231f20"
+        android:strokeWidth="0.25"
+        android:strokeMiterLimit="10"
+        android:pathData="M212,0.37,8.08,83.71A6.59,6.59,0,0,0,4.29,90H219.46V6.68C219.46,2.1,215.65-1.13,212,0.37Z" />
+    <path
+        android:fillColor="#231f20"
+        android:strokeColor="#231f20"
+        android:strokeWidth="0.25"
+        android:strokeMiterLimit="10"
+        android:pathData="M 9.48 93.26 L 9.49 93.26 Q 12.98 93.26 12.98 96.75 L 12.98 108.48 Q 12.98 111.97 9.49 111.97 L 9.48 111.97 Q 5.99 111.97 5.99 108.48 L 5.99 96.75 Q 5.99 93.26 9.48 93.26 Z" />
+    <path
+        android:fillColor="#231f20"
+        android:strokeColor="#231f20"
+        android:strokeWidth="0.25"
+        android:strokeMiterLimit="10"
+        android:pathData="M 35.07 93.26 L 35.08 93.26 Q 38.57 93.26 38.57 96.75 L 38.57 108.48 Q 38.57 111.97 35.08 111.97 L 35.07 111.97 Q 31.58 111.97 31.58 108.48 L 31.58 96.75 Q 31.58 93.26 35.07 93.26 Z" />
+    <path
+        android:fillColor="#231f20"
+        android:strokeColor="#231f20"
+        android:strokeWidth="0.25"
+        android:strokeMiterLimit="10"
+        android:pathData="M 60.67 93.26 L 60.68 93.26 Q 64.17 93.26 64.17 96.75 L 64.17 108.48 Q 64.17 111.97 60.68 111.97 L 60.67 111.97 Q 57.18 111.97 57.18 108.48 L 57.18 96.75 Q 57.18 93.26 60.67 93.26 Z" />
+    <path
+        android:fillColor="#231f20"
+        android:strokeColor="#231f20"
+        android:strokeWidth="0.25"
+        android:strokeMiterLimit="10"
+        android:pathData="M 86.27 93.26 L 86.28 93.26 Q 89.77 93.26 89.77 96.75 L 89.77 108.48 Q 89.77 111.97 86.28 111.97 L 86.27 111.97 Q 82.78 111.97 82.78 108.48 L 82.78 96.75 Q 82.78 93.26 86.27 93.26 Z" />
+    <path
+        android:fillColor="#231f20"
+        android:strokeColor="#231f20"
+        android:strokeWidth="0.25"
+        android:strokeMiterLimit="10"
+        android:pathData="M 111.87 93.26 L 111.88 93.26 Q 115.37 93.26 115.37 96.75 L 115.37 108.48 Q 115.37 111.97 111.88 111.97 L 111.87 111.97 Q 108.38 111.97 108.38 108.48 L 108.38 96.75 Q 108.38 93.26 111.87 93.26 Z" />
+    <path
+        android:fillColor="#231f20"
+        android:strokeColor="#231f20"
+        android:strokeWidth="0.25"
+        android:strokeMiterLimit="10"
+        android:pathData="M 137.47 93.26 L 137.48 93.26 Q 140.97 93.26 140.97 96.75 L 140.97 108.48 Q 140.97 111.97 137.48 111.97 L 137.47 111.97 Q 133.98 111.97 133.98 108.48 L 133.98 96.75 Q 133.98 93.26 137.47 93.26 Z" />
+    <path
+        android:fillColor="#231f20"
+        android:strokeColor="#231f20"
+        android:strokeWidth="0.25"
+        android:strokeMiterLimit="10"
+        android:pathData="M 163.07 93.26 L 163.08 93.26 Q 166.57 93.26 166.57 96.75 L 166.57 108.48 Q 166.57 111.97 163.08 111.97 L 163.07 111.97 Q 159.58 111.97 159.58 108.48 L 159.58 96.75 Q 159.58 93.26 163.07 93.26 Z" />
+    <path
+        android:fillColor="#231f20"
+        android:strokeColor="#231f20"
+        android:strokeWidth="0.25"
+        android:strokeMiterLimit="10"
+        android:pathData="M 188.66 93.26 L 188.67 93.26 Q 192.16 93.26 192.16 96.75 L 192.16 108.48 Q 192.16 111.97 188.67 111.97 L 188.66 111.97 Q 185.17 111.97 185.17 108.48 L 185.17 96.75 Q 185.17 93.26 188.66 93.26 Z" />
+    <path
+        android:fillColor="#231f20"
+        android:strokeColor="#231f20"
+        android:strokeWidth="0.25"
+        android:strokeMiterLimit="10"
+        android:pathData="M 214.26 93.26 L 214.27 93.26 Q 217.76 93.26 217.76 96.75 L 217.76 108.48 Q 217.76 111.97 214.27 111.97 L 214.26 111.97 Q 210.77 111.97 210.77 108.48 L 210.77 96.75 Q 210.77 93.26 214.26 93.26 Z" />
+</vector>
